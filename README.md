@@ -1,3 +1,7 @@
+### Hi there 👋 
+
+I'm a Software Engineer at <img src="assets/asc.svg" height="12" /> ASC, where I build and maintain their core systems. I excel at refactoring existing systems and squashing complex bugs. I love taking on tough challenges and creating efficient software.
+
 ### Languages
 
 <p>
@@ -53,8 +57,6 @@
     <a href="https://biomejs.dev/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Biome-%2360A5FA?style=for-the-badge&logo=biome&logoColor=white"></a>
 </p>
 
----
-
-#### Astro contributor
+### Astro contributor
 
 [![@angelmarfil Astro contributions](https://astro.badg.es/v2/contributor/angelmarfil.svg)](https://astro.badg.es/contributor/angelmarfil/)
