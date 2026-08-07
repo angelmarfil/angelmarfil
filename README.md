@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=2CFF05&text=Angel%20Marfil&desc=FullStack%20Developer&descAlignY=58&reversal=false&fontAlignY=40&descAlign=51&section=header&textBg=false)
+
 ### Hi there 👋 
 
 I'm a Software Engineer at <img src="assets/asc.svg" height="12" /> ASC, where I build and maintain their core systems. I excel at refactoring existing systems and squashing complex bugs. I love taking on tough challenges and creating efficient software.
@@ -60,3 +62,5 @@ I'm a Software Engineer at <img src="assets/asc.svg" height="12" /> ASC, where I
 ### Astro contributor
 
 [![@angelmarfil Astro contributions](https://astro.badg.es/v2/contributor/angelmarfil.svg)](https://astro.badg.es/contributor/angelmarfil/)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=2CFF05&descAlignY=58&reversal=false&fontAlignY=40&descAlign=51&section=footer&textBg=false)
